@@ -1,4 +1,4 @@
-package Prueba1;
+package Builder;
 
 public class UsuarioBuilder {
 

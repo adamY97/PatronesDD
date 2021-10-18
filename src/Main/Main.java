@@ -1,7 +1,7 @@
 package Main;
 
-import Prueba1.Usuario;
-import Prueba1.UsuarioBuilder;
+import Builder.Usuario;
+import Builder.UsuarioBuilder;
 import Singleton.Singleton;
 import Singleton.UsuarioSingleton;
 
