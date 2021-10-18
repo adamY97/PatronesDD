@@ -30,7 +30,7 @@ public class PlayStationServer {
 			 
 			 this.msg = "La conexión ha sido realizada con éxito, puerta abierta.";
 		 }else {
-			 this.msg = "La conexión fallida, puerta cerrada.";
+			 this.msg = "Conexión fallida, puerta cerrada.";
 		 }
 		 
 		return msg;
